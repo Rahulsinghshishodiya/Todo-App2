@@ -1,0 +1,70 @@
+/* .App {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  background-color:#ccc;
+} */
+
+/*
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+/* .App-link {
+  color: #61dafb;
+} 
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* .todo-wraper {
+  background-color: aquamarine;
+  width: 400px;
+  height: 500px;
+}
+.todo-item {
+  font-size: 20px;
+  border-bottom: 1px solid;
+  padding: 5px;
+  margin: 2px;
+  text-align: left;
+}
+
+.todo-item button {
+  float: right;
+}
+.form-wraper {
+  background-color: #61dafb; 
+}
+
+.button button {
+  background-color: lightpink;
+  margin-top: 10px;
+  padding: 5px;
+}
+*/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Kanit", sans-serif;
+}

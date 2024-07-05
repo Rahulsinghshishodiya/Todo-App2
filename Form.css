@@ -1,0 +1,93 @@
+.form-wraper {
+  padding: 50px;
+  background-color: lightblue;
+  margin: 35px 240px;
+}
+.form-wraper h1 {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 50px;
+}
+.buttonitem button {
+  background-color: lightskyblue;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  width: 50%;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.buttonitem {
+  text-align: center;
+}
+.form-wraper h5 {
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+input[type="text"],
+input[type="address"] {
+  width: 40%;
+  padding: 6px;
+  margin: 5px 10px 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 8px;
+}
+input[type="number"] {
+  padding: 5px;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 8px;
+}
+
+div {
+  padding: 10px 0;
+}
+input[type="radio"] {
+  margin: 5px;
+}
+label {
+  margin-inline-end: 20px;
+}
+select {
+  padding: 6px;
+  border-radius: 8px;
+}
+.table-wraper {
+  padding: 50px;
+  background-color: lightpink;
+  margin: 35px 240px;
+}
+.table-wraper h1 {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 50px;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+  text-align: left;
+  border-radius: 8px;
+}
+
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+}
+.icon-delete {
+  display: flex;
+  justify-content: space-evenly;
+}
